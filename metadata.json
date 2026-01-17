@@ -1,0 +1,7 @@
+{
+  "name": "CashTrack Offline",
+  "description": "A privacy-focused, offline-first financial tracker for Android. Manage bank deposits, cash withdrawals, cash spending, and recurring payments with local storage and AI-powered insights.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
